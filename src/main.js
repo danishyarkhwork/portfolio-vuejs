@@ -4,10 +4,6 @@ import { createPinia } from 'pinia'
 import App from './App.vue'
 import router from './router'
 
-import 'bootstrap/dist/css/bootstrap.css'
-import './assets/img/favicon.png'
-import './assets/img/apple-touch-icon.png'
-
 import './assets/vendor/aos/aos.css'
 import './assets/vendor/bootstrap/css/bootstrap.min.css'
 import './assets/vendor/bootstrap-icons/bootstrap-icons.css'
